@@ -1,0 +1,19 @@
+{
+  "name": "tensorflowtitanic",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "tensorFlowTitanic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.4.0",
+    "danfojs-node": "^1.1.2"
+  }
+}
